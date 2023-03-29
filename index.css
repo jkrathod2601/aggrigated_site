@@ -2,6 +2,9 @@
     background-color: #F5F7FA;
 }
 
+html {
+    scroll-behavior: smooth;
+  }
 .attr{
     border: 1px double #404e67;
     padding-top: 8px;
