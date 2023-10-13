@@ -120,26 +120,3 @@ html {
   }
   
 
-
-  .icon-size {
-    font-size: 2rem; /* Adjust the icon size as needed */
-}
-
-.card {
-    overflow: hidden;
-}
-
-.card .media-body {
-    padding: 1rem;
-    min-height: 150px; /* Set a minimum height for the cards */
-}
-
-.media-body h4 {
-    margin-top: 0;
-}
-
-.media-body{
-  /* max-width: 80%; */
-  width: 100%;
-  height: auto;
-}
